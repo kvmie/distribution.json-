@@ -17,7 +17,7 @@
       "minecraftVersion": "1.19.4",
       "discord": {
         "shortId": "1.19.4",
-        "largeImageKey": "https://media.discordapp.net/attachments/1396945451671879682/1406401548644253736/icon.png?ex=68a25502&is=68a10382&hm=5e4a9f52ac6f3d1e24dd84e0d805add4dacd32c2b2ce83f8a687bde0825d0065&=&format=webp&quality=lossless&width=968&height=968",
+        "largeImageKey": "kvlogo",
         "largeImageText": "kvlogo"
       },
       "mainServer": true,
