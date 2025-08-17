@@ -10,17 +10,17 @@
     {
       "id": "Demo-1.19.4",
       "name": "Minecraft 1.19.4",
-      "description": "Minecraft 1.19.4",
+      "description": "Running Minecraft 1.19.4",
       "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Grass_Block_JE2.png/revision/latest?cb=20200830142618",
       "version": "1.0.0",
-      "address": "mc.universocraft.com",
+      "address": "localhost:25565",
       "minecraftVersion": "1.19.4",
       "discord": {
-        "shortId": "1.19.4",
-        "largeImageKey": "kvlogo",
-        "largeImageText": "kvlogo"
+        "shortId": "1.19.4 Demo",
+        "largeImageKey": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Grass_Block_JE2.png/revision/latest?cb=20200830142618",
+        "largeImageText": "test kvclient"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
